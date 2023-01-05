@@ -17,9 +17,9 @@ def flo_Sum ():
     while  num % 10 > 0:
         num = num * 10
     return num
-flo_Sum()
+# flo_Sum()
 
-n = round(flo_Sum())
+n = int(flo_Sum())
 b= str(n)
 suma = sum (int (i) for i in b)
 
