@@ -34,3 +34,4 @@ print (suma)
 # for i in list:
 #     new_Sum = sum (list)
 # print (new_Sum)
+print (type ())
